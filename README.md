@@ -10,6 +10,7 @@ This tool only works with most of C projects.
 
 ```bash
 git clone https://github.com/RyouYoo/auto_42_projecter.git
+cd auto_42_projecter
 pip3 install -r requirements.txt
 ```
 
